@@ -1,0 +1,42 @@
+#titleScale {
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+#scale {
+    width: 55%;
+    padding: 6px 0px;
+    margin: 8px 0;
+    margin-left: 6px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: black;
+}
+
+#btnScale {
+    width: 50px;
+    height: 25px;
+    background-color: #518DCA;
+    color: white;
+    /* padding: 14px 20px; */
+    margin: 8px 0;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 12px;
+    text-align: center;
+}
+
+#formScale {
+    color: white;
+    background-color: rgba(50,51,50,0.9);
+    padding: 10px;
+    height: 85px;
+    width: 200px;
+}
